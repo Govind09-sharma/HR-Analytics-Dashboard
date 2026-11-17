@@ -1,3 +1,4 @@
+<img width="1323" height="743" alt="dashboard-preview" src="https://github.com/user-attachments/assets/ea57a978-edcf-47ec-8314-49de5032571b" />
 # 📊 HR Analytics Dashboard – Power BI
 
 ## 📌 Project Overview
@@ -78,3 +79,9 @@ Power BI | Data Analytics | Data Visualization
 ---
 
 ⭐ If you find this project useful, don't forget to give this repository a star!
+---
+
+## Dashboard Preview 
+
+![HR Analytics Dashboard]
+(dashboard-preview.png)
